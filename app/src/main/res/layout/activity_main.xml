@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_vertical"
         android:orientation="vertical"
-        android:padding="20dp">
+        android:padding="21dp">
 
         <TextView
             android:id="@+id/editText2"
